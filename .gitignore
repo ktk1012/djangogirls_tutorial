@@ -1,0 +1,4 @@
+.vscode/
+myenv/
+tags/
+db.sqlite3

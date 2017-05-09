@@ -1,1 +1,6 @@
-Django==1.8
+django<1.11
+django-storages
+azure
+pymysql
+pillow
+
